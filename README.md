@@ -1,5 +1,5 @@
 # snake-game
-The old classic snake game
+The classic snake game
 
 
 
